@@ -1,0 +1,10 @@
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Code\C#\Code\CHUNGKHOAN\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
